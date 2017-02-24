@@ -2,7 +2,7 @@
 
 /* Vulnerability Scan v.02
 Bob Kelly
-bob.kelly@nuance
+
 
 Step 1: vAction = SCANREAD
 	a. Input: Read in Excel Spreadsheet
